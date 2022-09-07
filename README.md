@@ -1,2 +1,2 @@
-# Gerador De CPF Valido
- Criado com JS
+# gerador-de-cpf-valido
+ Um gerador de CPF feito em JS
